@@ -69,7 +69,7 @@ const regularUser = {
 //console.log(instructor);
 
 // {
-//     "name": "hitesh",
+//     "name": "tushar",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
